@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RetoLogin/static/css/main.a21117b1.chunk.css",
+    "main.js": "/RetoLogin/static/js/main.1f7132e4.chunk.js",
+    "main.js.map": "/RetoLogin/static/js/main.1f7132e4.chunk.js.map",
+    "runtime~main.js": "/RetoLogin/static/js/runtime~main.62bf5b05.js",
+    "runtime~main.js.map": "/RetoLogin/static/js/runtime~main.62bf5b05.js.map",
+    "static/js/2.b26a188f.chunk.js": "/RetoLogin/static/js/2.b26a188f.chunk.js",
+    "static/js/2.b26a188f.chunk.js.map": "/RetoLogin/static/js/2.b26a188f.chunk.js.map",
+    "index.html": "/RetoLogin/index.html",
+    "precache-manifest.1ec5bef179ca82b5acccfe0831787797.js": "/RetoLogin/precache-manifest.1ec5bef179ca82b5acccfe0831787797.js",
+    "service-worker.js": "/RetoLogin/service-worker.js",
+    "static/css/main.a21117b1.chunk.css.map": "/RetoLogin/static/css/main.a21117b1.chunk.css.map"
+  }
+}

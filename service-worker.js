@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/RetoLogin/precache-manifest.0775e817b857164227ac0402246dfe06.js"
+  "/RetoLogin/precache-manifest.bc35693ca3fb18d2d6babcaf195e4482.js"
 );
 
 self.addEventListener('message', (event) => {

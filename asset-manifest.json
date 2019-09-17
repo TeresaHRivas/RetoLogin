@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/RetoLogin/static/css/main.2584e24e.chunk.css",
-    "main.js": "/RetoLogin/static/js/main.1a847a5f.chunk.js",
-    "main.js.map": "/RetoLogin/static/js/main.1a847a5f.chunk.js.map",
+    "main.css": "/RetoLogin/static/css/main.22350ef1.chunk.css",
+    "main.js": "/RetoLogin/static/js/main.84c063f1.chunk.js",
+    "main.js.map": "/RetoLogin/static/js/main.84c063f1.chunk.js.map",
     "runtime~main.js": "/RetoLogin/static/js/runtime~main.62bf5b05.js",
     "runtime~main.js.map": "/RetoLogin/static/js/runtime~main.62bf5b05.js.map",
     "static/js/2.b26a188f.chunk.js": "/RetoLogin/static/js/2.b26a188f.chunk.js",
     "static/js/2.b26a188f.chunk.js.map": "/RetoLogin/static/js/2.b26a188f.chunk.js.map",
     "index.html": "/RetoLogin/index.html",
-    "precache-manifest.0775e817b857164227ac0402246dfe06.js": "/RetoLogin/precache-manifest.0775e817b857164227ac0402246dfe06.js",
+    "precache-manifest.bc35693ca3fb18d2d6babcaf195e4482.js": "/RetoLogin/precache-manifest.bc35693ca3fb18d2d6babcaf195e4482.js",
     "service-worker.js": "/RetoLogin/service-worker.js",
-    "static/css/main.2584e24e.chunk.css.map": "/RetoLogin/static/css/main.2584e24e.chunk.css.map"
+    "static/css/main.22350ef1.chunk.css.map": "/RetoLogin/static/css/main.22350ef1.chunk.css.map",
+    "static/media/fb.png": "/RetoLogin/static/media/fb.7428c0e4.png"
   }
 }

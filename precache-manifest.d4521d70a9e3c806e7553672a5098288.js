@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7c6c85bea044126a95b2d88b5a9e9bcb",
+    "revision": "01fba8d40584ece24a979fc95f48c7bd",
     "url": "/RetoLogin/index.html"
   },
   {
-    "revision": "55a841313e5ebe565e53",
-    "url": "/RetoLogin/static/css/main.a21117b1.chunk.css"
+    "revision": "01142b765d21b96298c8",
+    "url": "/RetoLogin/static/css/main.3e5dc630.chunk.css"
   },
   {
     "revision": "f86125531bbdb8f3214c",
     "url": "/RetoLogin/static/js/2.b26a188f.chunk.js"
   },
   {
-    "revision": "55a841313e5ebe565e53",
+    "revision": "01142b765d21b96298c8",
     "url": "/RetoLogin/static/js/main.1a847a5f.chunk.js"
   },
   {
